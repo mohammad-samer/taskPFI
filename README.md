@@ -1,3 +1,3 @@
 # taskPFI
-![Froggy flex game](screenshot2.png)
-![CSS plate game](screenshot1.png)
+![Froggy flex game](C:/Users/user/taskPFI/screenshot2.png)
+![CSS plate game](C:/Users/user/taskPFI/screenshot.png)
